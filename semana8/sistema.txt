@@ -1,0 +1,2 @@
+1. uname -a muestra el nombre del sistema operativo, versión y arquitectura. whoami muestra el usuario actual
+2. Es útil conocer la información del sistema para administrar servidores y aplicar actualizaciones de seguridad correctas

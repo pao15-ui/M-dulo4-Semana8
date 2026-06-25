@@ -1,0 +1,5 @@
+1. Usar contraseñas largas, únicas y administrador de contraseñas
+2. Activar autenticación de dos factores 2FA en todas las cuentas
+3. Mantener software y sistema operativo actualizados
+4. Revisar permisos de aplicaciones y cerrar sesión en dispositivos públicos
+5. Hacer copias de seguridad periódicas de datos importantes

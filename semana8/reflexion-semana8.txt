@@ -1,0 +1,9 @@
+Reflexión Semana 8
+La seguridad digital es clave para proteger plataformas que usan comunidades.
+Estas plataformas manejan datos de muchas personas al mismo tiempo.
+Si no hay seguridad, la información personal puede ser robada o filtrada.
+Usar contraseñas fuertes evita que cuentas sean hackeadas fácilmente.
+La autenticación de dos factores da una capa extra de protección.
+Las comunidades confían en estas plataformas para participar y compartir.
+Mantener el software actualizado corrige fallas que atacantes pueden usar.
+Por eso protegerlas garantiza que el proceso participativo sea seguro.
